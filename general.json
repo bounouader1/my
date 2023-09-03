@@ -1,193 +1,33 @@
 {
-   "channel_count":18,
+   "channel_count": 3,
    "channels":[
       {
-         "channel_name":"✺ FR - GENERALE FHD ✺",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/flag_france.png",
+         "channel_name":"##### SP - SPAIN #####",
+         "channel_logo":"",
          "channel_stream":[
             {
                "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2586"
+               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/63846"
             }
          ]
       },
       {
-         "channel_name":"FR ⋆ TF1 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",
+         "channel_name":"SP - LA 1 HD ◉",
+         "channel_logo":"",
          "channel_stream":[
             {
                "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2587"
+               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/21367"
             }
          ]
       },
       {
-         "channel_name":"FR ⋆ TF1 PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tf1-plus-1(1).png",
+         "channel_name":"SP - LA 2 HD ◉",
+         "channel_logo":"",
          "channel_stream":[
             {
                "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75432"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ FRANCE 2 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE2FHD.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2588"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ FRANCE 3 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE3FHD.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2589"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ FRANCE 3 NOA FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/noa2(1).png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/146961"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ FRANCE 4 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE4FHD.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2590"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ FRANCE 5 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE5FHD.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2591"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ 6TER FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/6TER.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2593"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ M6 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/M6.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2594"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TF1 SERIES FILMS FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2595"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TFX FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TFX.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2596"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ C8 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C8.jpg",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2615"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ W9 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/W9.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2600"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ RTL 9 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTL9.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2597"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TEVA FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TEVAHD.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2598"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TMC FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-1.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2599"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TMC PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-plus.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75433"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR - ANTENNE REUNION FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/antenne.png",
-         "channel_stream":[
-            {
-               "video_quality":"Unknown",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/413105"
+               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/21366"
             }
          ]
       }
