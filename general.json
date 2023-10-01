@@ -1,30 +1,263 @@
 {
-   "channel_count":3,
+   "channel_count":24,
    "channels":[
       {
-         "channel_name":"MA ⋆ AL AOULA INTER",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
+         "channel_name":"BEIN SPORTS 3 4K BK",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.3-4K.png",
          "channel_stream":[
             {
-               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/352"
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/402917"
             }
          ]
       },
       {
-         "channel_name":"MA ⋆ 2M MAROC ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/2MMAROC.png",
+         "channel_name":"BEIN SPORTS 4 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.4-4K.png",
          "channel_stream":[
             {
-               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/355"
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1044"
             }
          ]
       },
       {
-         "channel_name":"MA ⋆ ARRYADIA HD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRIADIA.png",
+         "channel_name":"BEIN SPORTS 4 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.4-4K.png",
          "channel_stream":[
             {
-               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/357"
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410041"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 5 4K",
+         "channel_logo":"http://lg.mygolden.xyz/8080/logo/BEIN/BEINSPORT2023/B.S.5-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1045"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 5 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.5-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410043"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 6 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.6-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1046"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 6 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.6-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410045"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 7 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.7-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1047"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 7 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.7-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410047"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 8 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.8-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1048"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 8 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.8-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410049"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 9 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.9-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1049"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 9 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/B.S.9-4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410051"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS AFC 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/bein.afc/bein.afc.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/168783"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS AFC 1 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/bein.afc/bein.afc1.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/168785"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS AFC 2 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/bein.afc/bein.afc2.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/168787"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS AFC 3 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/bein.afc/bein.afc3.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/168789"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS XTRA 1 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/bein-sports-xtra-1.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/158891"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS XTRA 2 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/bein-sports-xtra-2.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/158893"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS XTRA 3 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/beINSPORTSXTRA3.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1050"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS XTRA 3 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/BEINSPORT2023/beINSPORTSXTRA3.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/410053"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 1 ENGLISH 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/Beinsports-4k/beIN_SPORTS1_ENGLISH.1.4k.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1053"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 1 FRENCH 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/Beinsports-4k/beIN_SPORTS1_FRENCH.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1056"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS 2 FRENCH 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/Beinsports-4k/beIN_SPORTS2_FRENCH.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1057"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN SPORTS NBA 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/Beinsports-4k/bein-sports-NBA.4K.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/1059"
+            }
+         ]
+      },
+      {
+         "channel_name":"BEIN 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/BEIN/Beinsports-4k/bein%204k.png",
+         "channel_stream":[
+            {
+               "video_quality":"4K",
+               "stream_link":"http://walidouhamid.com:80/D12B81H45A68P4/WNPFFH1HJ50ZLXBM/171987"
             }
          ]
       }
