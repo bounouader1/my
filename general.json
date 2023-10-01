@@ -1,33 +1,30 @@
 {
-   "channel_count": 3,
+   "channel_count":3,
    "channels":[
       {
-         "channel_name":"##### SP - SPAIN #####",
-         "channel_logo":"",
+         "channel_name":"MA ⋆ AL AOULA INTER",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
          "channel_stream":[
             {
-               "video_quality":"Unknown",
-               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/63846"
+               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/352"
             }
          ]
       },
       {
-         "channel_name":"SP - LA 1 HD ◉",
-         "channel_logo":"",
+         "channel_name":"MA ⋆ 2M MAROC ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/2MMAROC.png",
          "channel_stream":[
             {
-               "video_quality":"Unknown",
-               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/21367"
+               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/355"
             }
          ]
       },
       {
-         "channel_name":"SP - LA 2 HD ◉",
-         "channel_logo":"",
+         "channel_name":"MA ⋆ ARRYADIA HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRIADIA.png",
          "channel_stream":[
             {
-               "video_quality":"Unknown",
-               "stream_link":"http://supralf.xyz:80/9172080373267/8DBA1D724B44/21366"
+               "stream_link":"http://soloselects.store:80/R28N74Q36V27B1/NSNYNL8HOFUZANCS/357"
             }
          ]
       }
