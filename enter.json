@@ -2,52 +2,52 @@
    "channel_count":5,
    "channels":[
       {
-         "channel_name":"✺ FR - GENERALE FHD ✺",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/flag_france.png",
+         "channel_name":"MAR: Medi 1 TV Arabic HD",
+         "channel_logo":"https://fr.wikipedia.org/wiki/Fichier:Medi_1_TV_logo.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2586"
+               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101877.ts"
             }
          ]
       },
       {
-         "channel_name":"FR ⋆ TF1 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",
+         "channel_name":"MAR: Athaqafia HD",
+         "channel_logo":"https://commons.wikimedia.org/wiki/File:Logo_tv_med_arrabia_nouveau.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2587"
+               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101879.ts"
             }
          ]
       },
       {
-         "channel_name":"FR ⋆ TF1 PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tf1-plus-1(1).png",
+         "channel_name":"MAR: Arryadia Live HD",
+         "channel_logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/225px-Logo%2Barryadia%2Bmorocco.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75432"
+               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101880.ts"
             }
          ]
       },
       {
-         "channel_name":"FR ⋆ TMC PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-plus.png",
+         "channel_name":"MAR: Assadissa",
+         "channel_logo":"https://commons.wikimedia.org/wiki/File:Assadissa.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75433"
+               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101881.ts"
             }
          ]
       },
       {
-         "channel_name":"FR - ANTENNE REUNION FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/antenne.png",
+         "channel_name":"MAR: Tamazight HD",
+         "channel_logo":"https://commons.wikimedia.org/wiki/File:Tamazight_TV8.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/413105"
+               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101883.ts"
             }
          ]
       }
