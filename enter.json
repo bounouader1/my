@@ -3,37 +3,49 @@
    "channels":[
       {
          "channel_name":"MAR: Medi 1 TV Arabic HD",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101877.ts"
          }
       },
       {
          "channel_name":"MAR: Athaqafia HD",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101879.ts"
          }
       },
       {
          "channel_name":"MAR: Arryadia Live HD",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101880.ts"
          }
       },
       {
          "channel_name":"MAR: Assadissa",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101881.ts"
          }
       },
       {
          "channel_name":"MAR: Tamazight HD",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101883.ts"
          }
       },
       {
          "channel_name":"MAR: Tele Maroc",
+         "channel_logo": "",
          "channel_stream":{
+            "video_quality": "",
             "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101886.ts"
          }
       }
