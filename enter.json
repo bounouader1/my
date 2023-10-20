@@ -1,153 +1,353 @@
 {
-   "channel_count":15,
+   "channel_count":24,
    "channels":[
       {
-         "channel_name":"MAR: Al Aoula Inter FHD",
-         "channel_logo":"http://181.233.124.44:80/images/031ab6728b4c7ba4c3d08c474ef0a978.jpg",
+         "channel_name":"✺ MOROCCO ✺",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/MAROC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101873.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/385"
             }
          ]
       },
       {
-         "channel_name":"MAR: Al Aoula Laayoune HD",
-         "channel_logo":"http://185.156.74.136:80/images/031ab6728b4c7ba4c3d08c474ef0a978.jpg",
+         "channel_name":"MA ⋆ AL AOULA INTER",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101874.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/352"
             }
          ]
       },
       {
-         "channel_name":"MAR: 2M Monde",
-         "channel_logo":"http://5.44.253.130:80/images/dcfbb98f77ec9bfff97cd5ef424f0731.jpg",
+         "channel_name":"MA ⋆ AL AOULA INTER HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101875.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/353"
             }
          ]
       },
       {
-         "channel_name":"MAR: 2M National",
-         "channel_logo":"http://181.233.124.55:80/images/4bf7726f27f5929bfcd3ca085e677c55.jpg",
+         "channel_name":"MA ⋆ LAAYOUNE TV 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101876.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/206389"
             }
          ]
       },
       {
-         "channel_name":"MAR: Al Maghribia HD",
-         "channel_logo":"http://181.233.124.44:80/images/8011a228dd6c2a7a88324d55736be2b1.jpg",
+         "channel_name":"MA ⋆ LAAYOUNE TV HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101887.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/354"
             }
          ]
       },
       {
-         "channel_name":"MAR: Chada TV",
-         "channel_logo":"http://185.156.74.136:80/images/8bf37005c6d2b74d8beaa9dc0a442a02.jpg",
+         "channel_name":"MA ⋆ 2M MAROC ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/2MMAROC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101888.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/355"
             }
          ]
       },
       {
-         "channel_name":"MAR: TV 5 Monde",
-         "channel_logo":"http://181.233.124.44:80/images/782ca7e9f5f47467674abd0a406492bd.png",
+         "channel_name":"MA ⋆ 2M MAROC NATIONAL ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/2MMAROC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101889.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/356"
             }
          ]
       },
       {
-         "channel_name":"MAR: TV5",
-         "channel_logo":"http://181.233.124.44:80/images/0e5dc2a4e0ea84cc5475a81a148b7530.jpg",
+         "channel_name":"MA ⋆ MBC 5 MAROC ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/MBCGROUP/MBC5-1.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101890.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/370"
             }
          ]
       },
       {
-         "channel_name":"MAR: M24 MAROC",
-         "channel_logo":"http://185.156.74.136:80/images/8d4948985f50d9de8bd8bd201210ad1d.png",
+         "channel_name":"MA ⋆ ARRYADIA HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRIADIA.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101891.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/357"
             }
          ]
       },
       {
-         "channel_name":"MAR: Medi 1 TV Arabic HD",
-         "channel_logo":"http://5.44.253.130:80/images/e95cc130956ec2b6f31889bef7c2b68d.jpg",
+         "channel_name":"MA ⋆ ARRABIAA HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRABIA.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101877.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/358"
             }
          ]
       },
       {
-         "channel_name":"MAR: Athaqafia HD",
-         "channel_logo":"http://181.233.124.55:80/images/d854551741644e8bb32bd0ac81bc495b.png",
+         "channel_name":"MA ⋆ AL MAGHRIBIA HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALMAGHRIBIA.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101879.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/359"
             }
          ]
       },
       {
-         "channel_name":"MAR: Arryadia Live HD",
-         "channel_logo":"http://5.44.253.130:80/images/8bb13c2bf3015a9b5fb54c3610299667.jpg",
+         "channel_name":"MA ⋆ ASSADISSA HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ASSADISSA.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101880.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/360"
             }
          ]
       },
       {
-         "channel_name":"MAR: Assadissa",
-         "channel_logo":"http://5.44.253.130:80/images/6ef5847423e26fd5a3efe9312cc17e35.jpg",
+         "channel_name":"MA ⋆ AFLAM 7 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ASSABIA.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101881.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/361"
             }
          ]
       },
       {
-         "channel_name":"MAR: Tamazight HD",
-         "channel_logo":"http://181.233.124.55:80/images/0ceba589491d93978a498088081f535d.jpg",
+         "channel_name":"MA ⋆ TV TAMAZIGHT HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/TAMAZIGHT.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101883.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/362"
             }
          ]
       },
       {
-         "channel_name":"MAR: Tele Maroc",
-         "channel_logo":"http://5.44.253.130:80/images/c2a4b3d4b741803811d48f9aadc6bafb.jpg",
+         "channel_name":"MA ⋆ MEDI 1 MAGHREB HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/MEDI1TVHD.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101886.m3u8"
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/363"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ MEDI 1 TV ARABE HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/MEDI1TVHD.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/365"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ MEDI 1 TV AFRIQUE HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/MEDI1TVHD.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/364"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TELE MAROC",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/TELEMAROC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/366"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ CHADA FM",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/CHADAFM.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/367"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ AL ONS TV",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALONSTV-1.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/368"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ CANAL ATLAS",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/CANALATLAS-1.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/369"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ M24 MAROC",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/M24.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/371"
+            }
+         ]
+      },
+      {
+         "channel_name":"✺ MA ⋆ MOROCCO TNT ✺",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ASSABIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/372"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT AL OULA",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAHD.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/373"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT AL OULA HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAHD.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/374"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT AL OULA INTER",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALOULAINTER.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/375"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT 2M MAROC",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/2MMAROC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/376"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT ARRYADIA HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRIADIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/377"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT ARRIADIA",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRIADIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/378"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT ARRABIAA",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ARRABIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/379"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT AL MAGHRIBIA",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ALMAGHRIBIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/380"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT ASSADISSA HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ASSADISSA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/381"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT AFLAM 7 HD ⊚",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/ASSABIA.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/382"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT TAMAZIGHT",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/TAMAZIGHT.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/383"
+            }
+         ]
+      },
+      {
+         "channel_name":"MA ⋆ TNT MEDI 1 TV",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/AFRICA/MOROCCO/MEDI1TVHD.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/C66Y92W22U32X7/71J80YF2XTRKQ9KK/384"
             }
          ]
       }
